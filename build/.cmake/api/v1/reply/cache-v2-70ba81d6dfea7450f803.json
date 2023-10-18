@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/piotrbaranowski/Desktop/Software projects/SFML/build"
+			"value" : "/Users/piotrbaranowski/Desktop/Software projects/SFML/Polygon drawing editor/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -495,7 +495,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/piotrbaranowski/Desktop/Software projects/SFML/build/CMakeFiles/pkgRedirects"
+			"value" : "/Users/piotrbaranowski/Desktop/Software projects/SFML/Polygon drawing editor/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -555,7 +555,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/piotrbaranowski/Desktop/Software projects/SFML"
+			"value" : "/Users/piotrbaranowski/Desktop/Software projects/SFML/Polygon drawing editor"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1171,7 +1171,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/piotrbaranowski/Desktop/Software projects/SFML/build"
+			"value" : "/Users/piotrbaranowski/Desktop/Software projects/SFML/Polygon drawing editor/build"
 		},
 		{
 			"name" : "app_IS_TOP_LEVEL",
@@ -1195,7 +1195,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/piotrbaranowski/Desktop/Software projects/SFML"
+			"value" : "/Users/piotrbaranowski/Desktop/Software projects/SFML/Polygon drawing editor"
 		}
 	],
 	"kind" : "cache",
